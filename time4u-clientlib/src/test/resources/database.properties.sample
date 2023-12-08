@@ -1,0 +1,11 @@
+# Example property file for testing. Uncomment as appropriate
+
+#dbDriver=org.apache.derby.jdbc.EmbeddedDriver
+#dbDriver=com.mysql.jdbc.Driver
+
+# If empty the default database at user home is used
+#dbUrl=jdbc:mysql://host:3306/time4u
+#dbUrl=jdbc:derby:C:/Users/user/Time4UData/.metadata/.plugins/de.objectcode.time4u.client.store/time4u
+
+#dbUser=SA
+#dbPass=
